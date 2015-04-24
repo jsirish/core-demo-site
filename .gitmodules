@@ -1,0 +1,27 @@
+[submodule "cms"]
+	path = cms
+	url = git@github.com:silverstripe/silverstripe-cms.git
+[submodule "framework"]
+	path = framework
+	url = git@github.com:silverstripe/silverstripe-framework.git
+[submodule "themes/simple"]
+	path = themes/simple
+	url = git@github.com:silverstripe-themes/silverstripe-simple.git
+[submodule "core"]
+	path = core
+	url = git@github.com:dynamic/core.git
+[submodule "flexslider"]
+	path = flexslider
+	url = git@github.com:dynamic/SilverStripe-FlexSlider.git
+[submodule "userforms"]
+	path = userforms
+	url = git@github.com:silverstripe/silverstripe-userforms.git
+[submodule "tagfield"]
+	path = tagfield
+	url = git@github.com:silverstripe-labs/silverstripe-tagfield.git
+[submodule "core-gallery"]
+	path = core-gallery
+	url = git@github.com:dynamic/core-gallery.git
+[submodule "core-events"]
+	path = core-events
+	url = git@github.com:dynamic/core-events.git

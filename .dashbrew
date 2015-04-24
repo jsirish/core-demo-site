@@ -1,0 +1,10 @@
+---
+core.dev:
+  title: Core
+  php:
+    build: system
+  vhost:
+    servername: core.dev
+    serveraliases:
+      - core.dev
+    ssl: false
