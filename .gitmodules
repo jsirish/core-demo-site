@@ -25,3 +25,6 @@
 [submodule "core-events"]
 	path = core-events
 	url = git@github.com:dynamic/core-events.git
+[submodule "addressable"]
+	path = addressable
+	url = git@github.com:silverstripe-australia/silverstripe-addressable.git
